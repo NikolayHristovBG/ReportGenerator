@@ -1,0 +1,122 @@
+[
+{
+"name": "AAA",
+"totalSales": 100,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "BBB",
+"totalSales": 110,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "CCC",
+"totalSales": 120,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "DDD",
+"totalSales": 130,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "EEE",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "FFF",
+"totalSales": 150,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "GGG",
+"totalSales": 80,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "HHH",
+"totalSales": 90,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "III",
+"totalSales": 60,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "JJJ",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "KKK",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "LLL",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "MMM",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "NNN",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "OOO",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "PPP",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "QQQ",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "RRR",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "SSS",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+},
+{
+"name": "QQQ",
+"totalSales": 140,
+"salesPeriod": 10,
+"experienceMultiplier": 0.5
+}
+]

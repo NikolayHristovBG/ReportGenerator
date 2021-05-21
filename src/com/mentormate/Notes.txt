@@ -1,0 +1,81 @@
+javac Main.java
+
+javac "C:\Users\Viper\eclipse-workspace\ReportGenerator\src\com\mentormate\Main.java"
+java "C:\Users\Viper\eclipse-workspace\ReportGenerator\src\com\mentormate\Main.java" "C:\Users\Viper\eclipse-workspace\ReportGenerator\src\com\mentormate\json\data.json"
+
+package java.util.*;
+package java.io.*;
+package org.json.simple.JSONArray;
+package org.json.simple.JSONObject;
+package org.json.simple.parser.JSONParser;
+
+javac *.java
+java Main.java Employee.java
+javac -cp ../ *.java
+
+javac -cp "C:\Program Files\json-simple-1.1.1.jar" *.java
+
+
+javac C:\Users\Viper\eclipse-workspace\ReportGenerator\src\Main.java	
+java \main.Main
+
+
+javac -classpath "C:\Program Files\JSON\json-simple-1.1.1.jar";classes;. -d classes src\com\mentormate\main.java Employee.java
+
+
+java Main.java Employee.java "C:\Users\Viper\eclipse-workspace\ReportGenerator\src\com\mentormate\json\data.json" "C:\Users\Viper\eclipse-workspace\ReportGenerator\src\com\mentormate\json\definition.json"
+
+
+package com.mentormate;
+
+import java.io.*;
+
+public class Main {
+	public static void main(String[] args) throws IOException{
+		
+		String filePath = args[0];
+		System.out.println(filePath);
+		
+		/*
+		FileReader inputStream = null;
+        FileWriter outputStream = null;
+        PrintWriter printWriter = null;
+        String path = "";
+        System.out.println("Please enter path to the JSON data file: ");
+        
+        
+        BufferedReader br = new BufferedReader( new FileReader("C:\\Users\\Viper\\eclipse-workspace\\ReportGenerator\\src\\com\\mentormate\\json\\data.json") );
+        
+        // this variable points to the buffered line
+        String line;
+
+        // Keep buffering the lines and print it.
+        while ((line = br.readLine()) != null) {
+        	inputStream.println(line);
+        }
+        
+        /*
+        try {
+            inputStream = new FileReader("C:\\Users\\Viper\\eclipse-workspace\\ReportGenerator\\src\\com\\mentormate\\json\\data.json");
+            outputStream = new FileWriter("C:\\Users\\Viper\\eclipse-workspace\\ReportGenerator\\src\\com\\mentormate\\json\\data2.json");
+            
+            int c;
+            while ((c = inputStream.read()) != -1) {
+                outputStream.write(c);
+                System.out.println(c);
+            }
+            
+        } finally {
+            if (inputStream != null) {
+                inputStream.close();
+            }
+            if (outputStream != null) {
+                outputStream.close();
+            }
+        }
+        
+        */
+		
+	}
+
+}
